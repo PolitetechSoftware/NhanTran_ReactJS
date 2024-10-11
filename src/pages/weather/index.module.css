@@ -1,0 +1,9 @@
+.weather-page {
+  width: 50%;
+  min-width: 350px;
+  margin: auto;
+}
+
+.content-container {
+  margin-top: 50px;
+}
